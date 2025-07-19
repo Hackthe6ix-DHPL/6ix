@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "workflows": [
+    {
+      "module": "prompt_chaining",
+      "workflow_sandbox_id": "54bee1ff-124c-49d3-a7c4-1804fdcd8f1d",
+      "ignore": null,
+      "deployments": [],
+      "container_image_name": null,
+      "container_image_tag": null,
+      "workspace": "default",
+      "target_directory": null
+    }
+  ],
+  "workspaces": []
+}
